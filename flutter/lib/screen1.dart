@@ -11,14 +11,27 @@ class _Screen1State extends State<Screen1> {
     return ListView.builder(
       itemCount: 4,
       itemBuilder: (context,index){
-        return Card(
-          borderOnForeground: true,
-          child: ListTile(
-            leading: CircleAvatar(
-              backgroundColor: Colors.amber,              
+        return Container(
+          padding: EdgeInsets.all(3.0),
+          child: Card(
+            elevation: 4.0,
+            margin: new EdgeInsets.symmetric(horizontal: 10.0, vertical: 6.0),
+            borderOnForeground: true,
+            child: Container(
+              height: 100.0,
+              alignment: Alignment.center,
+              decoration: BoxDecoration(
+
+              ),
+              child: ListTile(
+                
+                leading: CircleAvatar(
+                  backgroundColor: Colors.amber,              
+                ),
+                title: Text('Name ${index+1}'),
+                subtitle: Text("Description"),
+              ),
             ),
-            title: Text('Name ${index+1}'),
-            subtitle: Text("Description"),
           ),
         );
       },
