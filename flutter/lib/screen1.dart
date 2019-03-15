@@ -12,7 +12,7 @@ class _Screen1State extends State<Screen1> {
       itemCount: 4,
       itemBuilder: (context,index){
         return Container(
-          padding: EdgeInsets.all(3.0),
+          padding: EdgeInsets.all(5.0),
           child: Card(
             elevation: 4.0,
             margin: new EdgeInsets.symmetric(horizontal: 10.0, vertical: 6.0),

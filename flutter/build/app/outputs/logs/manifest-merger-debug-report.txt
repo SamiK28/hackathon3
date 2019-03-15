@@ -5,6 +5,11 @@ INJECTED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/s
 INJECTED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
 INJECTED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:video_player] /home/samarth/Desktop/Flutter Projects/hack3/flutter/build/video_player/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.1.aar/a7ce032e85e1173d84f9eba4e33d8913/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.1.aar/a52e0dc2a50139dda2a083d0c7317ba4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.1.aar/61e8aa6c516950ca4e3fba07e7c1a482/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.1.aar/ff57b3210e71fa6b1124fcf6313b8c41/AndroidManifest.xml:17:1-26:12
 INJECTED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -64,6 +69,16 @@ uses-sdk
 INJECTED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [:video_player] /home/samarth/Desktop/Flutter Projects/hack3/flutter/build/video_player/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /home/samarth/Desktop/Flutter Projects/hack3/flutter/build/video_player/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.1.aar/a7ce032e85e1173d84f9eba4e33d8913/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.1.aar/a7ce032e85e1173d84f9eba4e33d8913/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.1.aar/a52e0dc2a50139dda2a083d0c7317ba4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.1.aar/a52e0dc2a50139dda2a083d0c7317ba4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.1.aar/61e8aa6c516950ca4e3fba07e7c1a482/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.1.aar/61e8aa6c516950ca4e3fba07e7c1a482/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.1.aar/ff57b3210e71fa6b1124fcf6313b8c41/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.1.aar/ff57b3210e71fa6b1124fcf6313b8c41/AndroidManifest.xml:20:5-22:41
 INJECTED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -76,3 +91,7 @@ uses-permission#android.permission.INTERNET
 ADDED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/debug/AndroidManifest.xml:6:5-66
 	android:name
 		ADDED from /home/samarth/Desktop/Flutter Projects/hack3/flutter/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.1.aar/ff57b3210e71fa6b1124fcf6313b8c41/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.1] /home/samarth/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.1.aar/ff57b3210e71fa6b1124fcf6313b8c41/AndroidManifest.xml:24:22-76
